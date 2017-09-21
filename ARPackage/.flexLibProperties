@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="ar.type.ARSize"/>
+    <classEntry path="ar.player.view.ARStageVideoPlayer"/>
+    <classEntry path="ar.player.core.IVisibleObjectController"/>
+    <classEntry path="ar.data.IStack"/>
+    <classEntry path="ar.data.ARImageStackModel"/>
+    <classEntry path="ar.data.ARStackType"/>
+    <classEntry path="ar.data.ARStackID"/>
+    <classEntry path="ar.list.ARAbstractScrollBar"/>
+    <classEntry path="ar.observer.ARSimpleObserver"/>
+    <classEntry path="ar.observer.listener.IARSimpleObserver"/>
+    <classEntry path="ar.observer.event.ARSimpleObserverEvent"/>
+    <classEntry path="ar.model.ARScreenForm"/>
+    <classEntry path="ar.controller.ExtendedARViewController"/>
+    <classEntry path="ar.asset.AssetContainer"/>
+    <classEntry path="ar.load.LoadManager"/>
+    <classEntry path="ar.load.ILoadRequestor"/>
+    <classEntry path="ar.observer.ARStageEventObserver"/>
+    <classEntry path="ar.observer.listener.IARStageEventObserver"/>
+    <classEntry path="ar.observer.event.ARStageEvent"/>
+    <classEntry path="ar.component.combobox.ARComboBox"/>
+    <classEntry path="ar.component.combobox.list.ARComboListBox"/>
+    <classEntry path="ar.component.combobox.list.ARComboTitleBox"/>
+    <classEntry path="ar.component.combobox.list.ARComboCoreBox"/>
+    <classEntry path="ar.component.combobox.model.ARComboListBoxDataModel"/>
+    <classEntry path="ar.component.combobox.event.ARComboEvent"/>
+    <classEntry path="ar.observer.PopupEventBroadcastor"/>
+    <classEntry path="ar.observer.listener.IPopupEventListener"/>
+    <classEntry path="ar.observer.event.PopupEvent"/>
+    <classEntry path="ar.utils.array.ARArrayUtil"/>
+    <classEntry path="ar.error.ARError"/>
+    <classEntry path="ar.utils.image.ImageUtil"/>
+    <classEntry path="ar.utils.event.EventUtil"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
